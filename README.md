@@ -15,3 +15,11 @@ samtools sort -@ 8 ICG1471align.bam -o ICG1471align_srt.bam
 samtools index -c -@ 8 ICG1471align_srt.bam
 ```
 
+```
+bcftools mpileup -Ou -f arahy.Tifrunner.gnm2.J5K5.genome_main.fna ICG1471align_srt.bam | bcftools call -mv -Ob -o ICG1471calls.bcf
+
+bcftools convert -Oz -o ICG1471calls.vcf ICG1471calls.bcf
+```
+
+
+
