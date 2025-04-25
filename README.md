@@ -72,13 +72,7 @@ java -jar /snpeff_2/snpEff.jar ara_hypo vcfs/ICG1471calls_chr20_filtered.vcf > I
 
 more ICG1471calls_chr20_filtered.ann.vcf | grep -v "#" | grep "PASS" | cut -f 1,2,8 | sed 's/|/\t/g' | cut -f 1,2,4,5,7 | grep -v "intergenic\|stream\|UTR" > ICG1471_snp_table
 ```
-The SnpEff data collected using variants called in the peanut genome supports previous work done by XYZXYZXYZ . Further showing that the susceptible variety peanut, Florida-07, is closely related to 
-
-
-<img width="444" alt="ICG1471SnpEffChart" src="https://github.com/user-attachments/assets/be294ccc-0446-4af8-8d87-ed014d9abc2c" />
-
-
-<img width="371" alt="Flor07SnpEffChart" src="https://github.com/user-attachments/assets/c8063b58-324e-499f-bdf1-1db9162eca31" />
+The SnpEff data collected using variants called in the peanut genome supports previous work done by XYZXYZXYZ . Further showing that the susceptible variety peanut, Florida-07, is closely related to Tifrunner.
 
 
 # Differentially Expressed Genes Mapped to Tifrunner
