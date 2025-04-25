@@ -4,4 +4,12 @@ A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has be
 
 # Mapping and Variant Calling
 
-The HiFi sequences of Florida-07 and ICG1471 were mapped to TifrunnerV2 using minimap2 2.26. Variants were called using samtools
+The HiFi sequences of Florida-07 and ICG1471 were mapped to TifrunnerV2 using minimap2 2.26. Variants were called using samtools 1.16.1 and bcftools 1.18.
+Variants were viewed using IGV 2.18.4
+
+```
+eer
+erre
+ere
+```
+
