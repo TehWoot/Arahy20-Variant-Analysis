@@ -57,6 +57,9 @@ bcftools filter -i 'QUAL>=30' ICG1471calls.vcf | grep -v -c '^#'
 ```
 Variants were viewed using IGV 2.18.4.
 
+![image](https://github.com/user-attachments/assets/3a00b1ef-8f8e-4b97-b179-fbbb41e0d092)
+
+
 # SnpEff Analysis
 
 A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Building a SnpEff database and filtering was done according to [this tutorial](https://www.youtube.com/watch?v=-rmreyRAbkE&ab_channel=RodrigoBaptista). Files containing variants ranked as high, moderate, low, and modifier impact, as well as detailed SnpEff web links,  are listed in the repository.
