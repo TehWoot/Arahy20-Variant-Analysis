@@ -18,7 +18,7 @@ SnpEff weblink data of variants present in the Tifrunner genome.
 "updatedduip.fa.txt2.fa_mq10.sam.txt3.bed"
 Differentially expressed genes in response to *Aspergillus flavus* infection mapped by Walid Korani.
 
-The data available in <ins>this Google Drive</ins> is listed as follows.
+The data available in [this Google Drive](https://drive.google.com/drive/folders/1KtHvaQtU1dmY667oeUHx70eUEflsZOD3?usp=sharing) is listed as follows.
 
 "Flor07align_srt.bam" & "ICG1471align_srt.bam"
 Aligned sequences of Florida-07 and ICG1471.
