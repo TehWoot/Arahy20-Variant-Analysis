@@ -62,7 +62,7 @@ Variants were viewed using IGV 2.18.4.
 
 # SnpEff Analysis
 
-A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Building a SnpEff database and filtering was done according to [this tutorial](https://www.youtube.com/watch?v=-rmreyRAbkE&ab_channel=RodrigoBaptista). Files containing variants ranked as high, moderate, low, and modifier impact, as well as detailed SnpEff web links,  are listed in the repository.
+A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20 using SnpEff 5.2a. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Building a SnpEff database and filtering was done according to [this tutorial](https://www.youtube.com/watch?v=-rmreyRAbkE&ab_channel=RodrigoBaptista). Files containing variants ranked as high, moderate, low, and modifier impact, as well as detailed SnpEff web links,  are listed in the repository.
 
 ```
 # SnpEff Annotation with Filtered .vcfs
@@ -102,6 +102,10 @@ Petr Danecek, James K Bonfield, Jennifer Liddle, John Marshall, Valeriu Ohan, Ma
 <ins>IGV 2.18.4</ins>
 
 James T Robinson, Helga Thorvaldsdottir, Douglass Turner, Jill P Mesirov, igv.js: an embeddable JavaScript implementation of the Integrative Genomics Viewer (IGV), Bioinformatics, Volume 39, Issue 1 (2023) btac830, https://doi.org/10.1093/bioinformatics/btac830
+
+<ins>SnpEff 5.2a</ins>
+
+Cingolani, P., Platts, A., Wang, leL., Coon, M., Nguyen, T., Wang, L., Land, S. J., Lu, X., & Ruden, D. M. (2012). A program for annotating and predicting the effects of single nucleotide polymorphisms, SnpEff: SNPs in the genome of Drosophila melanogaster strain w1118; iso-2; iso-3. Fly, 6(2), 80–92. https://doi.org/10.4161/fly.19695
 
 ## Peanut Genome
 
