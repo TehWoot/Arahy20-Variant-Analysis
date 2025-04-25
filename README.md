@@ -28,7 +28,7 @@ Variants were viewed using IGV 2.18.4
 
 # SnpEff Analysis
 
-A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 for Chromosome 20 of cultivar Tifrunner. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Files containing variants ranked as high, moderate, low, and modifier impact are listed in the repository. Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis.
+A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Files containing variants ranked as high, moderate, low, and modifier impact are listed in the repository.
 
 ```
 # SnpEff Annotation with Filtered .vcfs
