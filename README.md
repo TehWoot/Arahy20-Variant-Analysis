@@ -20,6 +20,8 @@ bcftools mpileup -Ou -f arahy.Tifrunner.gnm2.J5K5.genome_main.fna ICG1471align_s
 
 bcftools convert -Oz -o ICG1471calls.vcf ICG1471calls.bcf
 ```
+# SnpEff Analysis
+
 
 
 
