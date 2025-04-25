@@ -5,7 +5,6 @@ A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has be
 # Mapping and Variant Calling
 
 The HiFi sequences of Florida-07 and ICG1471 were mapped to TifrunnerV2 using minimap2 2.26. Variants were called using samtools 1.16.1 and bcftools 1.18.
-Variants were viewed using IGV 2.18.4
 
 ```
 minimap2 -a arahy.Tifrunner.gnm2.J5K5.genome_main.fna ICG1471_HIFI.fastq > ICG1471align.sam
@@ -25,10 +24,26 @@ bcftools convert -Oz -o ICG1471calls.vcf ICG1471calls.bcf
 # Filtering Variants
 bcftools filter -i 'QUAL>=30' ICG1471calls.vcf | grep -v -c '^#'
 ```
+Variants were viewed using IGV 2.18.4
 
 # SnpEff Analysis
 
-A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Files containing variants ranked as high, moderate, low, and modifier impact are listed in the repository. Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis.
+A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 for Chromosome 20 of cultivar Tifrunner. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Files containing variants ranked as high, moderate, low, and modifier impact are listed in the repository. Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis.
+
+```
+# SnpEff Annotation with Filtered .vcfs
+
+java -jar /snpeff_2/snpEff.jar ara_hypo vcfs/ICG1471calls_chr20_filtered.vcf > ICG1471calls_chr20_filtered.ann.vcf
+```
+
+```
+# Filtering Annotated SnpEff.vcf
+
+more ICG1471calls_chr20_filtered.ann.vcf | grep -v "#" | grep "PASS" | cut -f 1,2,8 | sed 's/|/\t/g' | cut -f 1,2,4,5,7 | grep -v "intergenic\|stream\|UTR" > ICG1471_snp_table
+```
+
+
+
 
 
 
