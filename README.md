@@ -1,6 +1,6 @@
 # Introduction
 
-A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has been shown as a locus possibly conferring aflatoxin resistance in peanut and is present across multiple environments. In the present study, resistant and susceptible varieties, ICG1471 and Florida-07, were mapped to cultivated peanut, Tifrunner, to identify variants and candidate genes possibly contributing to aflatoxin resistance.
+A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has been shown as a locus possibly conferring aflatoxin resistance in peanut and is present across multiple environments. In the present study, susceptible and resistant varieties, Florida-07 and ICG1471, were mapped to cultivated peanut, Tifrunner, to identify variants and candidate genes possibly contributing to aflatoxin resistance.
 
 # Available Data
 
@@ -15,11 +15,21 @@ SnpEff weblink data of variants present on chromosome 20.
 "Flor07_snpEff_summary.html" & "ICG1471_snpEff_summary.html"
 SnpEff weblink data of variants present in the Tifrunner genome.
 
-"Flor07calls.vcf" & "ICG1471calls.vcf"
-Variant calls of Florida 07 and ICG1471.
-
 "updatedduip.fa.txt2.fa_mq10.sam.txt3.bed"
 Differentially expressed genes in response to *Aspergillus flavus* infection mapped by Walid Korani.
+
+The data available in <ins>this Google Drive</ins> is listed as follows.
+
+"Flor07align_srt.bam" & "ICG1471align_srt.bam"
+Aligned sequences of Florida-07 and ICG1471.
+
+"Flor07calls.vcf" & "ICG1471calls.vcf"
+Variant calls of Florida-07 and ICG1471.
+
+"Flor07calls.bcf" & ICG1471calls.bcf"
+Variant calls of Florida-07 and ICG1471.
+
+
 
 
 
