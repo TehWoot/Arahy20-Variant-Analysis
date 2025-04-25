@@ -7,7 +7,7 @@ A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has be
 The data available in this repository is listed as follows:
 
 "Flor07_chr20_snp_table.txt" & "ICG1471_chr20_snp_table.txt"
-All variants called using the SnpEff annotation tool on chromosome 20.
+Variants called using the SnpEff annotation tool on chromosome 20.
 
 "Flor07_SnpEff_Chr20FilteredQual30.html" & "ICG1471_SnpEff_Chr20FilteredQual30.html"
 SnpEff weblink data of variants present on chromosome 20.
@@ -59,7 +59,7 @@ Variants were viewed using IGV 2.18.4.
 
 # SnpEff Analysis
 
-A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Building a SnpEff database and filtering was done according to <ins>this tutorial</ins>. Files containing variants ranked as high, moderate, low, and modifier impact, as well as detailed SnpEff web links,  are listed in the repository.
+A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Building a SnpEff database and filtering was done according to [this tutorial](https://www.youtube.com/watch?v=-rmreyRAbkE&ab_channel=RodrigoBaptista). Files containing variants ranked as high, moderate, low, and modifier impact, as well as detailed SnpEff web links,  are listed in the repository.
 
 ```
 # SnpEff Annotation with Filtered .vcfs
