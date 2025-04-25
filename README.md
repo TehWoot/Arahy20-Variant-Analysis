@@ -80,26 +80,34 @@ The SnpEff data collected using variants called in the peanut genome supports pr
 
 <img width="371" alt="Flor07SnpEffChart" src="https://github.com/user-attachments/assets/c8063b58-324e-499f-bdf1-1db9162eca31" />
 
-## SnpEff Web Data Links
-
-> [Florida-07 to Tifrunner]
-> [ICG1471 to Tifrunner]
-> [Florida-07 to Tifrunner - Chromosome 20 Only]
-> [ICG1471 to Tifrunner - Chromosome 20 Only]
-
-
 
 # Differentially Expressed Genes Mapped to Tifrunner
 
-Korani et al. (2018) identified differentially expressed genes from the susceptible and resistant peanut cultivars Florida-07 and ICG1471. These DE genes were mapped to TifrunnerV2. The mapped DE genes were provided by Walid Korani. The differentially expressed genes were viewed in IGV 2.18.4.
+Korani et al. (2018) identified differentially expressed genes from the susceptible and resistant peanut cultivars Florida-07 and ICG1471. These DE genes were mapped to TifrunnerV2. The mapped DE genes were provided by Walid Korani (Clevenger Lab, HudsonAlpha Institute for Biotechnology). The differentially expressed genes were viewed in IGV 2.18.4.
 
 <img width="1920" alt="DEGenesOutsideqPSBIIB10" src="https://github.com/user-attachments/assets/e487eb77-310b-4878-8db0-4fc53c329208" />
 
 # Candidate Genes
 
-# Tools Used
+# Bioinformatic Tools Used
 
-Peanut Genome: 
+minimap2 2.26
+
+Li, H. (2018). Minimap2: pairwise alignment for nucleotide sequences. Bioinformatics, 34:3094-3100. doi:10.1093/bioinformatics/bty191
+
+samtools 1.16.1
+
+Petr Danecek, James K Bonfield, Jennifer Liddle, John Marshall, Valeriu Ohan, Martin O Pollard, Andrew Whitwham, Thomas Keane, Shane A McCarthy, Robert M Davies, Heng Li, Twelve years of SAMtools and BCFtools, GigaScience, Volume 10, Issue 2, February 2021, giab008, https://doi.org/10.1093/gigascience/giab008
+
+bcftools 1.18
+
+Petr Danecek, James K Bonfield, Jennifer Liddle, John Marshall, Valeriu Ohan, Martin O Pollard, Andrew Whitwham, Thomas Keane, Shane A McCarthy, Robert M Davies, Heng Li, Twelve years of SAMtools and BCFtools, GigaScience, Volume 10, Issue 2, February 2021, giab008, https://doi.org/10.1093/gigascience/giab008
+
+IGV 2.18.4
+
+James T Robinson, Helga Thorvaldsdottir, Douglass Turner, Jill P Mesirov, igv.js: an embeddable JavaScript implementation of the Integrative Genomics Viewer (IGV), Bioinformatics, Volume 39, Issue 1 (2023) btac830, https://doi.org/10.1093/bioinformatics/btac830
+
+## Peanut Genome
 
 
 
