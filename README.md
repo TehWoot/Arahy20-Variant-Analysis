@@ -109,6 +109,9 @@ James T Robinson, Helga Thorvaldsdottir, Douglass Turner, Jill P Mesirov, igv.js
 
 ## Peanut Genome
 
+arahy.Tifrunner.gnm2.J5K5
+Bertioli, D.J., Jenkins, J., Clevenger, J. et al. The genome sequence of segmental allotetraploid peanut Arachis hypogaea. Nat Genet 51, 877–884 (2019). https://doi.org/10.1038/s41588-019-0405-z
+
 
 
 
