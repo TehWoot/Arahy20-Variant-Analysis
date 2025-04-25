@@ -4,6 +4,9 @@ A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has be
 
 # Available Data
 
+The data available in this repository is listed as follows:
+
+Flor07_chr20_snp_table
 
 
 # Mapping and Variant Calling
@@ -32,7 +35,7 @@ Variants were viewed using IGV 2.18.4.
 
 # SnpEff Analysis
 
-A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Files containing variants ranked as high, moderate, low, and modifier impact, detailed SnpEff web links,  are listed in the repository.
+A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Files containing variants ranked as high, moderate, low, and modifier impact, as well as detailed SnpEff web links,  are listed in the repository.
 
 ```
 # SnpEff Annotation with Filtered .vcfs
@@ -59,6 +62,8 @@ The SnpEff data collected using variants called in the peanut genome supports pr
 Korani et al. (2018) identified differentially expressed genes from the susceptible and resistant peanut cultivars Florida-07 and ICG1471. These DE genes were mapped to TifrunnerV2. The mapped DE genes were provided by Walid Korani. The differentially expressed genes were viewed in IGV 2.18.4.
 
 <img width="1920" alt="DEGenesOutsideqPSBIIB10" src="https://github.com/user-attachments/assets/e487eb77-310b-4878-8db0-4fc53c329208" />
+
+# Tools Used
 
 
 
