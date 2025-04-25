@@ -56,7 +56,10 @@ The SnpEff data collected using variants called in the peanut genome supports pr
 
 # Differentially Expressed Genes Mapped to Tifrunner
 
-Korani et al. (2018) identified differentially expressed genes from the susceptible and resistant peanut cultivars Florida-07 and ICG1471. These DE genes were mapped to TifrunnerV2. The .bed file located in XYZ contains the mapped DE genes provided by Walid Korani. The differentially expressed genes were viewed in IGV 2.18.4.
+Korani et al. (2018) identified differentially expressed genes from the susceptible and resistant peanut cultivars Florida-07 and ICG1471. These DE genes were mapped to TifrunnerV2. The mapped DE genes were provided by Walid Korani. The differentially expressed genes were viewed in IGV 2.18.4.
+
+<img width="1920" alt="DEGenesOutsideqPSBIIB10" src="https://github.com/user-attachments/assets/e487eb77-310b-4878-8db0-4fc53c329208" />
+
 
 
 
