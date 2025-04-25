@@ -7,27 +7,27 @@ A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has be
 The data available in this repository is listed as follows:
 
 "Flor07_chr20_snp_table.txt" & "ICG1471_chr20_snp_table.txt"
-Variants called using the SnpEff annotation tool on chromosome 20.
+> Variants called using the SnpEff annotation tool on chromosome 20.
 
 "Flor07_SnpEff_Chr20FilteredQual30.html" & "ICG1471_SnpEff_Chr20FilteredQual30.html"
-SnpEff weblink data of variants present on chromosome 20.
+> SnpEff weblink data of variants present on chromosome 20.
 
 "Flor07_snpEff_summary.html" & "ICG1471_snpEff_summary.html"
-SnpEff weblink data of variants present in the Tifrunner genome.
+> SnpEff weblink data of variants present in the Tifrunner genome.
 
 "updatedduip.fa.txt2.fa_mq10.sam.txt3.bed"
-Differentially expressed genes in response to *Aspergillus flavus* infection mapped by Walid Korani.
+> Differentially expressed genes in response to *Aspergillus flavus* infection mapped by Walid Korani.
 
 The data available in [this Google Drive](https://drive.google.com/drive/folders/1KtHvaQtU1dmY667oeUHx70eUEflsZOD3?usp=sharing) is listed as follows.
 
 "Flor07align_srt.bam" & "ICG1471align_srt.bam"
-Aligned sequences of Florida-07 and ICG1471.
+> Aligned sequences of Florida-07 and ICG1471.
 
 "Flor07calls.vcf" & "ICG1471calls.vcf"
-Variant calls of Florida-07 and ICG1471.
+> Variant calls of Florida-07 and ICG1471.
 
 "Flor07calls.bcf" & ICG1471calls.bcf"
-Variant calls of Florida-07 and ICG1471.
+> Variant calls of Florida-07 and ICG1471.
 
 
 
