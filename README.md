@@ -80,6 +80,14 @@ The SnpEff data collected using variants called in the peanut genome supports pr
 
 <img width="371" alt="Flor07SnpEffChart" src="https://github.com/user-attachments/assets/c8063b58-324e-499f-bdf1-1db9162eca31" />
 
+## SnpEff Web Data Links
+
+> [Florida-07 to Tifrunner]
+> [ICG1471 to Tifrunner]
+> [Florida-07 to Tifrunner - Chromosome 20 Only]
+> [ICG1471 to Tifrunner - Chromosome 20 Only]
+
+
 
 # Differentially Expressed Genes Mapped to Tifrunner
 
@@ -87,7 +95,11 @@ Korani et al. (2018) identified differentially expressed genes from the suscepti
 
 <img width="1920" alt="DEGenesOutsideqPSBIIB10" src="https://github.com/user-attachments/assets/e487eb77-310b-4878-8db0-4fc53c329208" />
 
+# Candidate Genes
+
 # Tools Used
+
+Peanut Genome: 
 
 
 
