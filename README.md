@@ -24,11 +24,11 @@ bcftools convert -Oz -o ICG1471calls.vcf ICG1471calls.bcf
 # Filtering Variants
 bcftools filter -i 'QUAL>=30' ICG1471calls.vcf | grep -v -c '^#'
 ```
-Variants were viewed using IGV 2.18.4
+Variants were viewed using IGV 2.18.4.
 
 # SnpEff Analysis
 
-A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Files containing variants ranked as high, moderate, low, and modifier impact are listed in the repository.
+A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Files containing variants ranked as high, moderate, low, and modifier impact, detailed SnpEff web links,  are listed in the repository.
 
 ```
 # SnpEff Annotation with Filtered .vcfs
@@ -41,7 +41,7 @@ java -jar /snpeff_2/snpEff.jar ara_hypo vcfs/ICG1471calls_chr20_filtered.vcf > I
 
 more ICG1471calls_chr20_filtered.ann.vcf | grep -v "#" | grep "PASS" | cut -f 1,2,8 | sed 's/|/\t/g' | cut -f 1,2,4,5,7 | grep -v "intergenic\|stream\|UTR" > ICG1471_snp_table
 ```
-The SnpEff data collected using variants called in the peanut genome supports previous work done by XYZXYZXYZ . Further showing that susceptible variety peanut, Florida-07, is closely related to 
+The SnpEff data collected using variants called in the peanut genome supports previous work done by XYZXYZXYZ . Further showing that the susceptible variety peanut, Florida-07, is closely related to 
 
 
 <img width="444" alt="ICG1471SnpEffChart" src="https://github.com/user-attachments/assets/be294ccc-0446-4af8-8d87-ed014d9abc2c" />
@@ -50,6 +50,9 @@ The SnpEff data collected using variants called in the peanut genome supports pr
 <img width="371" alt="Flor07SnpEffChart" src="https://github.com/user-attachments/assets/c8063b58-324e-499f-bdf1-1db9162eca31" />
 
 
+# Differentially Expressed Genes Mapped to Tifrunner
+
+Korani et al. (2018) identified differentially expressed genes from the susceptible and resistant peanut cultivars Florida-07 and ICG1471. These DE genes were mapped to TifrunnerV2. The .bed file located in XYZ contains the mapped DE genes provided by Walid Korani. The differentially expressed genes were viewed in IGV 2.18.4.
 
 
 
