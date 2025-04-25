@@ -8,8 +8,10 @@ The HiFi sequences of Florida-07 and ICG1471 were mapped to TifrunnerV2 using mi
 Variants were viewed using IGV 2.18.4
 
 ```
-eer
-erre
-ere
+minimap2 -a arahy.Tifrunner.gnm2.J5K5.genome_main.fna ICG1471_HIFI.fastq > ICG1471align.sam
+
+samtools view -bS -@ 8 ICG1471align.sam > ICG1471align.bam
+samtools sort -@ 8 ICG1471align.bam -o ICG1471align_srt.bam
+samtools index -c -@ 8 ICG1471align_srt.bam
 ```
 
