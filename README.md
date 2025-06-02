@@ -96,6 +96,8 @@ Variant Position: 23,484,961
 
 ### EIN3 Variant Amino Acid Changes
 
+![image](https://github.com/user-attachments/assets/77389adc-79f3-414d-8b65-cd5ec5eea044)
+
 
 
 # Bioinformatic Tools Used
