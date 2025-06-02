@@ -88,7 +88,11 @@ Korani et al. (2018) identified differentially expressed genes from the suscepti
 
 Utilizing the data gathered from this analysis, candidate genes were identified.
 
-## 
+## Ethylene Insensitive 3 (EIN3)
+
+EIN3 plays a pivotal role in coordinating ethylene (ET) and jasmonic acid (JA) signaling, which can influence phenolic compound biosynthesis. The JA and ET pathways work together to activate the Ethylene Response Factor (ERF) branch of JA signaling.
+
+### 
 
 
 # Bioinformatic Tools Used
