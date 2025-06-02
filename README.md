@@ -97,7 +97,7 @@ Variant Position: 23,484,961
 ### EIN3 Variant Amino Acid Changes
 
 The varieties, Florida-07 and Tifrunner, contain the amino acid sequence GTT, producing a valine within the EIN3 gene.
-In resistant variety, ICG1471, the variant <ins>**T**TT</ins>, produces a phenylalanine
+In resistant variety, ICG1471, the variant <ins>**T**</ins>TT, produces a phenylalanine
 
 ![image](https://github.com/user-attachments/assets/77389adc-79f3-414d-8b65-cd5ec5eea044)
 
