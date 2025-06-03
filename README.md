@@ -113,6 +113,7 @@ In resistant variety, ICG1471, the variant <ins>**T**</ins>TT, produces a phenyl
 Valine -> Phenylalanine
 
 
+The change from valine to phenylalanine is a non-conservative substitution. The change from a small non-polar amino acid with an aliphatic side chain to a larger molecule with an aromatic ring makes it bulkier and more hydrophobic. This can affect protein structure and function.
 
 
 
