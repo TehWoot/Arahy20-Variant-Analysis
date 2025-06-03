@@ -110,6 +110,8 @@ In resistant variety, ICG1471, the variant <ins>**T**</ins>TT, produces a phenyl
 <img width="120" alt="Arrow" src="https://github.com/user-attachments/assets/dc0b98fa-9139-494b-aa88-6c188c1c7eed" />
 <img width="350" alt="Phenylalanine" src="https://github.com/user-attachments/assets/0f575c8b-f00e-486a-b602-e1a13ae214b4" />
 
+Valine -> Phenylalanine
+
 
 
 
