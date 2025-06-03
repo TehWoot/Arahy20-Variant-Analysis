@@ -98,7 +98,7 @@ Gene Position: Chr20(B10)TfrV2 23,483,367 - 23,485,240
 
 Variant Position: 23,484,961
 
-### EIN3 Variant Amino Acid Changes
+### EIN3: Variant Amino Acid Changes
 
 The varieties, Florida-07 and Tifrunner, contain the amino acid sequence GTT, producing a valine within the EIN3 gene.
 
@@ -114,6 +114,12 @@ Valine -> Phenylalanine
 
 
 The change from valine to phenylalanine is a non-conservative substitution. The change from a small non-polar amino acid with an aliphatic side chain to a larger molecule with an aromatic ring makes it bulkier and more hydrophobic. This can affect protein structure and function.
+
+### EIN3: Conserved Region Across Peanut
+
+The EIN3 gene's ORF (open reading frame) is mostly conserved across multiple peanut varieties such as Shitouqi, Aisheng, Huayu23, and Chedouzi.
+
+Blastp was used to find similar conserved amino acid regions and if the "K<ins>**F**</ins>C" variant is present in other varieties.
 
 
 
