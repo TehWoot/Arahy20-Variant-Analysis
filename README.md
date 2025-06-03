@@ -87,7 +87,7 @@ Korani et al. (2018) identified differentially expressed genes from the suscepti
 
 <img width="1920" alt="DEGenesOutsideqPSBIIB10" src="https://github.com/user-attachments/assets/e487eb77-310b-4878-8db0-4fc53c329208" />
 
-# Candidate Genes for Aflatoxin Resistance
+# Candidate Gene(s) for Aflatoxin Resistance
 
 Utilizing the data gathered from this analysis, candidate genes were identified.
 
