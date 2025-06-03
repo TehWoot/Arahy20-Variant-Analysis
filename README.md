@@ -106,6 +106,8 @@ In resistant variety, ICG1471, the variant <ins>**T**</ins>TT, produces a phenyl
 
 ![image](https://github.com/user-attachments/assets/77389adc-79f3-414d-8b65-cd5ec5eea044)
 
+![image](https://github.com/user-attachments/assets/b7641e1b-572f-4b0c-a604-78fd45ce0459)
+
 
 
 
