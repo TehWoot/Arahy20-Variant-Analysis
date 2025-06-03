@@ -121,7 +121,9 @@ The EIN3 gene's ORF (open reading frame) is mostly conserved across multiple pea
 
 Blastp was used to find similar conserved amino acid regions and if the "K<ins>**F**</ins>C" variant is present in other varieties.
 
+Most of the ORF where the EIN3 variant lies is conserved however differences occur as "K<ins>**V**</ins>C" or "K<ins>**I**</ins>C"
 
+The accessions used for the construction of this sequence logo are listed [here](https://docs.google.com/document/d/1nQ0eyiNNdJXp9fQUlmZx1UKssTKFMqnFfshjZ15in8c/edit?usp=sharing).
 
 
 
