@@ -106,7 +106,7 @@ In resistant variety, ICG1471, the variant <ins>**T**</ins>TT, produces a phenyl
 
 ![image](https://github.com/user-attachments/assets/77389adc-79f3-414d-8b65-cd5ec5eea044)
 
-![image](https://github.com/user-attachments/assets/e8bb4c9c-b247-4479-9c14-583f5dff0615)
+<img width="1920" alt=Valine "https://github.com/user-attachments/assets/3261adfe-d93b-459c-81a5-bbd443c07319" />
 
 
 
