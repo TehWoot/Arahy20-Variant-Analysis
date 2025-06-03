@@ -20,8 +20,11 @@ The data available in this repository is listed as follows:
 
 The data available in [this Google Drive](https://drive.google.com/drive/folders/1KtHvaQtU1dmY667oeUHx70eUEflsZOD3?usp=sharing) is listed as follows.
 
+"Florida07.fa" & "ICG1471.fa"
+> HiFi sequences of Florida-07 and ICG1471
+
 "Flor07align_srt.bam" & "ICG1471align_srt.bam"
-> Aligned sequences of Florida-07 and ICG1471.
+> Aligned sequences of Florida-07 and ICG1471 to Tifrunner.
 
 "Flor07calls.vcf" & "ICG1471calls.vcf"
 > Variant calls of Florida-07 and ICG1471.
