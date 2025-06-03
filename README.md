@@ -124,6 +124,7 @@ Blastp was used to find similar conserved amino acid regions and if the "K<ins>*
 Most of the ORF where the EIN3 variant lies is conserved however differences occur as "K<ins>**V**</ins>C" or "K<ins>**I**</ins>C"
 
 ![image](https://github.com/user-attachments/assets/6e92d557-0b21-4546-a0ea-b923d17f85a7)
+
 Sequence logo made by using the amino acid sequences of different peanut varieties.
 
 
