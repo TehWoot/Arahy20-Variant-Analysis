@@ -99,7 +99,7 @@ EIN3 plays a pivotal role in coordinating ethylene (ET) and jasmonic acid (JA) s
 Gene Position: Chr20(B10)TfrV2 23,483,367 - 23,485,240
 
 
-Variant Position: 23,484,961
+Variant Position: Chr20(B10)TfrV2 23,484,961
 
 ### EIN3: Variant Amino Acid Changes
 
