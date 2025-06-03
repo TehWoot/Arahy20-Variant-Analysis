@@ -131,7 +131,7 @@ Most of the ORF where the EIN3 variant lies is conserved however differences occ
 Sequence logo made by using the amino acid sequences of different peanut varieties.
 
 
-The accessions used for the construction of this sequence logo are listed [here](https://docs.google.com/document/d/1nQ0eyiNNdJXp9fQUlmZx1UKssTKFMqnFfshjZ15in8c/edit?usp=sharing).
+The accessions used for the construction of this sequence logo are listed [here](https://docs.google.com/document/d/1nQ0eyiNNdJXp9fQUlmZx1UKssTKFMqnFfshjZ15in8c/edit?usp=sharing). NOTE: STILL WORKING ON ADDING MORE PEANUT ACCESSIONS
 
 
 
