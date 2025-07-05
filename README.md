@@ -116,7 +116,7 @@ In resistant variety, ICG1471, the variant <ins>**T**</ins>TT, produces a phenyl
 Valine -> Phenylalanine
 
 
-The change from valine to phenylalanine is a non-conservative substitution. The change from a small non-polar amino acid with an aliphatic side chain to a larger molecule with an aromatic ring makes it bulkier and more hydrophobic. This can affect protein structure and function.
+The variant present within an exonic region of the gene causes a non-conservative amino acid substitution changing the small non-polar amino acid, valine, to a bulkier hydrophobic aromatic amino acid, phenylalanine. This large change in amino acids has the potential to affect protein structure and function. 
 
 ### EIN3: Conserved Region Across Peanut
 
@@ -151,6 +151,9 @@ In resistant variety, ICG1471, the variant <ins>**A**</ins>GG, an arginine is st
 
 ![image](https://github.com/user-attachments/assets/d53a2c10-5657-42d7-8e78-3ee35cc82fe4)
 
+Arginine -> Arginine
+
+The variant present within an exonic region of this gene does not cause an amino acid substitution but rather a synonymous change, retaining an arginine. Synonymous mutations can contribute to the enhancement of translation, stabilizing mRNA molecules, and changes to protein folding [(Oelschlaeger, 2024)](https://doi.org/10.3390/biom14010132).
 
 # Bioinformatic Tools Used
 
