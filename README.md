@@ -93,7 +93,7 @@ Utilizing the data gathered from this analysis, candidate genes were identified.
 
 ## Ethylene insensitive 3 (*EIN3*) family protein
 
-EIN3 plays a pivotal role in coordinating ethylene (ET) and jasmonic acid (JA) signaling, which can influence phenolic compound biosynthesis, thus influencing aflatoxin contamination. The JA and ET pathways work together to activate the Ethylene Response Factor (ERF) branch of JA signaling. Due to this gene's impact on JA pathways, it is anticipated that it will aid researchers and breeders in developing an aflatoxin-resistant variety.
+EIN3 plays a pivotal role in coordinating ethylene (ET) and jasmonic acid (JA) signaling, which can influence phenolic compound biosynthesis. Phenolic compound biosynthesis is essential for pathogen resistance [(He et al., 2017)](https://doi.org/10.1111/jipb.12524) and affect aflatoxin contamination. The JA and ET pathways work together to activate the Ethylene Response Factor (ERF) branch of JA signaling. Due to this gene's impact on JA pathways, it is anticipated that it will aid researchers and breeders in developing an aflatoxin-resistant variety.
 
 
 Gene Position: Chr20(B10)TfrV2 23,483,367 - 23,485,240
