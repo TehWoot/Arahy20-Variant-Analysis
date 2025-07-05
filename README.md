@@ -1,6 +1,6 @@
 # Introduction
 
-A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has been shown as a locus possibly conferring aflatoxin resistance in peanut and is present across multiple environments. In the present study, susceptible and resistant varieties, Florida-07 and ICG1471, were mapped to cultivated peanut, Tifrunner, to identify variants and candidate genes possibly contributing to aflatoxin resistance.
+A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has been shown as a locus possibly conferring aflatoxin resistance in peanut and is present across multiple environments. In the present study, susceptible and resistant varieties, Florida-07 and ICG 1471, were mapped to cultivated peanut, Tifrunner, to identify variants and candidate genes possibly contributing to aflatoxin resistance.
 
 # Available Data
 
@@ -63,7 +63,7 @@ Variants were viewed using IGV 2.18.4.
 
 # SnpEff Analysis
 
-A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG1471 on chromosome 20 using SnpEff 5.2a. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Building a SnpEff database and filtering was done according to [this tutorial](https://www.youtube.com/watch?v=-rmreyRAbkE&ab_channel=RodrigoBaptista).
+A SnpEff analysis was conducted on the mapped variants from Florida-07 and ICG 1471 on chromosome 20 using SnpEff 5.2a. SnpEff is a genetic variant annotation and functional effect prediction toolbox (Cingolani et al., 2012). Both the Florida-07 and ICG1471 cultivars were mapped and had variants called to allow for the detection of SNPs in this analysis. Building a SnpEff database and filtering was done according to [this tutorial](https://www.youtube.com/watch?v=-rmreyRAbkE&ab_channel=RodrigoBaptista).
 ```
 # SnpEff Annotation with Filtered .vcfs
 
@@ -75,14 +75,14 @@ java -jar /snpeff_2/snpEff.jar ara_hypo vcfs/ICG1471calls_chr20_filtered.vcf > I
 
 more ICG1471calls_chr20_filtered.ann.vcf | grep -v "#" | grep "PASS" | cut -f 1,2,8 | sed 's/|/\t/g' | cut -f 1,2,4,5,7 | grep -v "intergenic\|stream\|UTR" > ICG1471_snp_table
 ```
-## ICG1471 SnpEff Table
+## ICG 1471 SnpEff Table
 
 ![Screenshot 2025-06-24 at 3 12 14 PM](https://github.com/user-attachments/assets/bafdb6e9-57e2-4259-9cb3-95d0f7a5c0ef)
 
 
 ![Screenshot 2025-06-24 at 3 14 05 PM](https://github.com/user-attachments/assets/25ea2c29-a6ab-4d66-a5aa-6f5e856ab630)
 
-## Florida SnpEff Table
+## Florida-07 SnpEff Table
 
 ![image](https://github.com/user-attachments/assets/b87ec091-7d02-4689-b0bc-103cc3edfbdb)
 
@@ -90,7 +90,7 @@ more ICG1471calls_chr20_filtered.ann.vcf | grep -v "#" | grep "PASS" | cut -f 1,
 ![Screenshot 2025-06-24 at 3 16 15 PM](https://github.com/user-attachments/assets/5f711516-d902-4e96-85ce-cf9c3b0cf7e4)
 
 
-From the SnpEff analysis, 43,604 variants were identified from Florida-07 with a variant rate of 1 every 3,326 bases. From ICG 1471, 170,866 variants were identified with a variant rate of 1 every 848 bases, almost quadruple that of Florida-07. Variants located in intergenic regions, upstream and downstream, or untranslated regions were filtered out. This was done to focus on functional variants within genes. There were a total of 5,495 filtered variants for ICG 1471 and 1,803 for Florida-07. Filtered variants identified on Arahy20, along with the position, type of variant, functional class, and impact, are located in the repository. Candidate genes of resistance were also identified based on SnpEff results and previously published literature.
+From the SnpEff analysis, 43,604 variants were identified from Florida-07 with a variant rate of 1 every 3,326 bases. From ICG 1471, 170,866 variants were identified with a variant rate of 1 every 848 bases, almost quadruple that of Florida-07. This supports the work done by [Chu et al (2018)](https://doi.org/10.3146/ps17-17.1) that Florida-07 is closely related to the currently cultivated peanut, Tifrunner. Variants located in intergenic regions, upstream and downstream, or untranslated regions were filtered out. This was done to focus on functional variants within genes. There were a total of 5,495 filtered variants for ICG 1471 and 1,803 for Florida-07. Filtered variants identified on Arahy20, along with the position, type of variant, functional class, and impact, are located in the repository. Candidate genes of resistance were also identified based on SnpEff results and previously published literature.
 
 # Differentially Expressed Genes Mapped to Tifrunner
 
