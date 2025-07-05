@@ -96,7 +96,7 @@ Korani et al. (2018) identified differentially expressed genes from the suscepti
 
 # Candidate Gene(s) for Aflatoxin Resistance
 
-Utilizing the data gathered from this analysis, candidate genes were identified.
+Utilizing the data gathered from this analysis, candidate genes were identified. It's hoped these markers and candidate genes can assist breeders in developing aflatoxin-resistant peanut cultivars.
 
 ## Ethylene insensitive 3 (*EIN3*) family protein
 
