@@ -1,6 +1,6 @@
 # Introduction
 
-A variant analysis was conducted on QTL *qPSIIB10*. The *qPSIIB10* region has been shown as a locus possibly conferring aflatoxin resistance in peanut and is present across multiple environments. In the present study, susceptible and resistant varieties, Florida-07 and ICG 1471, were mapped to cultivated peanut, Tifrunner, to identify variants and candidate genes possibly contributing to aflatoxin resistance.
+A variant analysis was conducted on the Arahy20 region. This region has been shown as a locus possibly conferring aflatoxin resistance in peanut and is present across multiple environments. In the present study, susceptible and resistant varieties, Florida-07 and ICG 1471, were mapped to cultivated peanut, Tifrunner, to identify variants and candidate genes possibly contributing to aflatoxin resistance.
 
 # Available Data
 
