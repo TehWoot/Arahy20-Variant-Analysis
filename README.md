@@ -9,8 +9,6 @@ The data available in this repository is listed as follows:
 "Flor07_chr20_snp_table.txt" & "ICG1471_chr20_snp_table.txt"
 > Variants called using the SnpEff annotation tool on chromosome 20.
 
-"Flor07_SnpEff_Chr20FilteredQual30.html" & "ICG1471_SnpEff_Chr20FilteredQual30.html"
-> SnpEff weblink data of variants present on chromosome 20.
 
 "Flor07_snpEff_summary.html" & "ICG1471_snpEff_summary.html"
 > SnpEff weblink data of variants present in the Tifrunner genome.
