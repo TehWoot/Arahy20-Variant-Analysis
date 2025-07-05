@@ -9,10 +9,6 @@ The data available in this repository is listed as follows:
 "Flor07_chr20_snp_table.txt" & "ICG1471_chr20_snp_table.txt"
 > Variants called using the SnpEff annotation tool on chromosome 20.
 
-
-"Flor07_snpEff_summary.html" & "ICG1471_snpEff_summary.html"
-> SnpEff weblink data of variants present in the Tifrunner genome.
-
 "updatedduip.fa.txt2.fa_mq10.sam.txt3.bed"
 > Differentially expressed genes in response to *Aspergillus flavus* infection mapped by Walid Korani.
 
