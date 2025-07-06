@@ -98,7 +98,7 @@ Korani et al. (2018) identified differentially expressed genes from the suscepti
 
 Utilizing the data gathered from this analysis, candidate genes were identified. It's hoped these markers and candidate genes can assist breeders in developing aflatoxin-resistant peanut cultivars.
 
-## Ethylene insensitive 3 (*EIN3*) family protein
+## Ethylene insensitive 3 (*EIN3*) family protein, Ah20g165800
 
 EIN3 plays a pivotal role in coordinating ethylene (ET) and jasmonic acid (JA) signaling, which can influence phenolic compound biosynthesis. Phenolic compound biosynthesis is essential for pathogen resistance [(He et al., 2017)](https://doi.org/10.1111/jipb.12524) and affect aflatoxin contamination. The JA and ET pathways work together to activate the Ethylene Response Factor (ERF) branch of JA signaling. Due to this gene's impact on JA pathways, it is anticipated that it will aid researchers and breeders in developing an aflatoxin-resistant variety.
 
@@ -140,7 +140,7 @@ Sequence logo made by using the amino acid sequences of different peanut varieti
 
 The accessions used for the construction of this sequence logo are listed [here](https://docs.google.com/document/d/1nQ0eyiNNdJXp9fQUlmZx1UKssTKFMqnFfshjZ15in8c/edit?usp=sharing).
 
-## LAG1 longevity assurance homolog 3
+## LAG1 longevity assurance homolog 3, Ah20g180000
 
 *LAG1* has a primary role in sphingolipid metabolism [(Megyeri et al., 2019)](https://doi.org/10.1242/jcs.228411). This class of lipids is crucial to stress responses like inducing salicylic acid responses and plant developmental regulation [(Li et al., 2022](https://doi.org/10.1111/tpj.15639); [Liu et al., 2021)](https://doi.org/10.1016/j.xplc.2021.100214). The protein produced by *LAG1*, Lag1p, is a ceramide synthase. Ceramides contribute to plant defenses and are synthesized in the endoplasmic reticulum [(Li et al., 2022](https://doi.org/10.1111/tpj.15639); [Zelnik et al., 2020)](https://doi.org/10.1016/j.bbalip.2019.06.015). In aflatoxin studies done by [Korani et al (2018)](https://doi.org/10.1534/genetics.118.300478), protein processing in the endoplasmic reticulum, which is a cell organelle heavily affected by sphingolipids [(Wang et al., 2023)](https://doi.org/10.1111/nph.19200), contributes to aflatoxin resistance. In a previous study, the overexpression of the sphingolipid metabolism gene, *BnaCERK*, in *Brassica napus* caused a decrease in fungal contamination by *Sclerotinia sclerotiorum*, while a knockout increased susceptibility [(Singh et al., 2025)](https://doi.org/10.1093/plphys/kiae656), showcasing sphingolipid metabolism genes as a possible contributor of fungal resistance.
 
